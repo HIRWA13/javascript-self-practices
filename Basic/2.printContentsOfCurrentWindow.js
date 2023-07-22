@@ -4,4 +4,3 @@ function printCurrentWindow() {
     window.print();
 }
 print.addEventListener('click', printCurrentWindow);
-
